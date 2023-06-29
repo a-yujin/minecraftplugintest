@@ -1,0 +1,3 @@
+name: McPluginTest
+version: '${project.version}'
+main: mcplugintest.mcplugintest.McPluginTest

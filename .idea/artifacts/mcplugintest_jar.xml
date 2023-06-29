@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mcplugintest:jar">
+    <output-path>$USER_HOME$/Documents/양유진/minecraft 1.12.2 test/plugin</output-path>
+    <root id="archive" name="mcplugintest.jar">
+      <element id="module-output" name="mcplugintest" />
+    </root>
+  </artifact>
+</component>
